@@ -1,0 +1,6 @@
+Patient_ID,Name,Age,Gender,Diagnosis,HbA1c
+P001,Kim,25,M,Normal,5.2
+P002,Lee,47,F,Diabetes,7.8
+P003,Park,68,M,Hypertension,6.1
+P004,Choi,34,F,Normal,5.4
+P005,Jung,82,M,Cancer,6.5
