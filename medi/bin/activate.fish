@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV /Users/skku_aws2_02/Documents/myproject/medical_analysis/medi
+set -gx VIRTUAL_ENV /Users/skku_aws2_02/Documents/medical_analysis/medi
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/"bin $PATH
